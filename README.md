@@ -33,3 +33,8 @@ Enter key and Clear button functionality
 Loading spinner while fetching data
 
 Overall, this project showcases how basic web technologies can be used to build a real-time weather dashboard using public APIs.
+
+'OUTPUT':
+![Image](https://github.com/user-attachments/assets/5c95b8f1-fb6c-4058-b5d5-67d1f86cc049)
+
+![Image](https://github.com/user-attachments/assets/32d9440c-57cb-4090-8630-2144ed1c5921)
